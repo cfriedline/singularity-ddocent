@@ -4,7 +4,7 @@ clone: `git clone https://github.com/cfriedline/singularity-ddocent.git` to mach
 
 create: `cd singularity-ddocent` and `make ddocent`
 
-upload: `scp` to your HPC system
+upload: `scp ddocent.img` to your HPC system
 
 exec:
 ```
