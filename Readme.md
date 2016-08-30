@@ -1,10 +1,10 @@
 ## Create dDocent Container
 
-clone: `git clone...`
+clone: `git clone` to machine/vm with [singularity](http://singularity.lbl.gov) installed
 
 create: `make ddocent`
 
-upload: `make upload_ddocent`, then `scp` to your HPC
+upload: `scp` to your HPC system
 
 exec:
 ```
