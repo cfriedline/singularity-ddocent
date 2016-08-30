@@ -1,6 +1,6 @@
 ## Create dDocent Container
 
-clone: `git clone` to machine/vm with [singularity](http://singularity.lbl.gov) installed
+clone: `git clone` to machine/[vm](https://github.com/cfriedline/vagrant-singularity) with [singularity](http://singularity.lbl.gov) installed. 
 
 create: `make ddocent`
 
