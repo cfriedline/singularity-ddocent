@@ -1,8 +1,8 @@
 ## Create dDocent Container
 
-clone: `git clone` to machine/[vm](https://github.com/cfriedline/vagrant-singularity) with [singularity](http://singularity.lbl.gov) installed. 
+clone: `git clone https://github.com/cfriedline/singularity-ddocent.git` to machine/[vm](https://github.com/cfriedline/vagrant-singularity) with [singularity](http://singularity.lbl.gov) installed.
 
-create: `make ddocent`
+create: `cd singularity-ddocent` and `make ddocent`
 
 upload: `scp` to your HPC system
 
